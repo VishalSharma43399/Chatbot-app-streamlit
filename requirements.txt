@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-groq
+duckduckgo-search
+httpx
+tqdm
